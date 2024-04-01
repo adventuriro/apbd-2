@@ -1,4 +1,4 @@
-namespace apbd_tutorial02;
+namespace apbd_tutorial2;
 
 public class Cargo
 {
